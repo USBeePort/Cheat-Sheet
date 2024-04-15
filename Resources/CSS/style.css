@@ -1,0 +1,33 @@
+h1 {
+    background-color: white;
+    border: solid white 3px;
+}
+
+body {
+    background-color: darksalmon;
+    color: indianred;
+    font-family: arial;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    border: 2px solid white;
+    width: 650px;
+}
+
+.code {
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+
+td {
+    border-top: black;
+    background-color: white;
+}
+
+th {
+    background-color: aliceblue;
+}
